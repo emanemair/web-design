@@ -1,0 +1,34 @@
+
+section{
+    margin:5rem;
+  
+}
+
+#education , #personal-details , #skills{
+    width: 40vw;
+    padding: 2rem;
+}
+
+
+.university-name ,#email , #phone-number , #linkedin{
+    color:#A55119;
+}
+
+#contact-button{
+    color:#A55119; 
+    border-color: #A55119;
+}
+#contact-button:hover{
+    color:white; 
+    background-color: #2C3C3D;
+    border-color: aliceblue;
+}
+#skills
+{
+    width: 70vw;
+}
+
+#skill-des{
+    margin-left:1rem;
+    margin-top:1rem;
+}

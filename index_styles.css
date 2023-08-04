@@ -1,0 +1,9 @@
+#contact-me{
+    display: flex;
+    align-items: end;
+    gap:2rem;
+}
+
+#email,#linkedin{
+    color:#A55119;
+}
