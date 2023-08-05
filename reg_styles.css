@@ -1,0 +1,44 @@
+*{
+    box-sizing: border-box;
+}
+:root{
+    --background-color1:#f3f5f5 ; 
+    --background-color2:#1E5057 ;
+}
+body{
+    height: 100vh;
+    margin: 0;
+    overflow: hidden;
+    border:1px solid black; 
+}
+
+
+#reg-form{
+    border: 1px solid #1E5057;
+    padding: 20px;
+    position: relative;
+    margin:10% 25%; 
+    display: flex;
+    flex-direction: column;
+    color:#1E5057; 
+   align-items: flex-start;
+    justify-content: center;
+    gap: 1rem;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    flex-wrap: wrap;
+    
+}
+
+label{
+    text-align: right;
+    align-items: flex-start;
+}
+#submit_button,input{
+    color: #1E5057;
+    width:100%; 
+    
+}
+
+
+
+
